@@ -9,12 +9,15 @@ header{
     margin-botton: 10px;
      
 }
-h2{
+.h1{
     border-top: 3px solid black;
     border-bottom:3px solid black ;
+    padding-top: 20px;
+    padding-bottom: 15 px;
 
 }
 ul{
+    margin-left: 15px;
     list-style:url("https://learn.algoritmika.org/uploads/2021/01/Arrow%201_0_1611261359.svg");
 }
 footer{
@@ -23,3 +26,7 @@ footer{
 a{
     background-color: #FFB600;
 }
+
+
+
+
